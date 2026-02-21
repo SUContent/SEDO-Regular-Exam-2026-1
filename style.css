@@ -10,7 +10,7 @@ body {
 .app {
   text-align: center;
 }
-
+#new color 12356
 #color-input {
   padding: 0.5em;
   width: 200px;
@@ -29,3 +29,5 @@ body {
   background: #ddd;
   border: 1px solid #aaa;
 }
+
+Added button in styles
