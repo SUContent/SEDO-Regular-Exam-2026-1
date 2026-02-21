@@ -9,4 +9,52 @@ Script started on 2026-02-21 11:06:57+02:00 [TERM="xterm-256color" TTY="/dev/pts
 [7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;3;3;3;48;2;13;10;8m╴[38;2;30;22;19;48;2;104;63;41m▃[38;2;41;32;29;48;2;119;82;65m▂[38;2;31;28;26;48;2;118;93;79m▅[38;2;10;11;14;48;2;15;16;18m┈[38;2;8;12;17;48;2;9;10;14m▂[38;2;9;14;22;48;2;7;9;12m▂[38;2;9;12;15;48;2;16;24;32m▆[38;2;28;31;38;48;2;31;49;65m▄[38;2;128;99;80;48;2;75;49;35m▗[38;2;143;131;124;48;2;51;75;93m▉[38;2;38;57;72;48;2;2;2;3m▏[48;2;0;0;0m     [0m
 [?25h[14A[9999999D[25C[0m[1m[32m[1mdemian[0m@[32m[1mdemian[0m 
 [25C[0m-------------[0m 
-[25C
+[25C[0m[1mOS[0m[0m:[0m CachyOS x86_64[0m 
+[25C[0m[1mHost[0m[0m:[0m Micro-Star International Co., Ltd. MAG Z790 TOMAHAWK WIFI (MS-7D91)[0m 
+[25C[0m[1mKernel[0m[0m:[0m 6.18.8-3-cachyos[0m 
+[25C[0m[1mUptime[0m[0m:[0m 2 hours, 7 mins[0m 
+[25C[0m[1mPackages[0m[0m:[0m 1958 (pacman), 26 (flatpak)[0m 
+[25C[0m[1mShell[0m[0m:[0m bash 5.3.9[0m 
+[25C[0m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[25C[0m[1mDE[0m[0m:[0m Plasma 6.5.5 (Wayland)[0m 
+[25C[0m[1mWM[0m[0m:[0m kwin_wayland_wr[0m 
+[25C[0m[1mTheme[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mIcons[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mTerminal[0m[0m:[0m vscode[0m 
+[25C[0m[1mCPU[0m[0m:[0m Intel i5-14600K (20) @ 5.300GHz[0m 
+[25C[0m[1mGPU[0m[0m:[0m Intel Battlemage G21 [Arc B580][0m 
+[25C[0m[1mMemory[0m[0m:[0m 8302MiB / 31802MiB[0m 
+
+[?25h[?7h]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  main ? [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:06 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m [1;32m❯[0m [7mgit checkout -b feature/new-ui-button[27m[C[Cgit checkout -b feature/new-ui-button
+[?2004lSwitched to a new branch 'feature/new-ui-button'
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ? [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:10 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m [1;32m❯[0m git add .
+[?2004l]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button + [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:10 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m [1;32m❯[0m git comimt [K[K[K[Kmit -m ;[K'changed the script'
+[?2004l[feature/new-ui-button e99df5d] changed the script
+ 2 files changed, 32 insertions(+), 3 deletions(-)
+ create mode 100644 cli-log.txt
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:11 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m [1;32m❯[0m git push -u [K[K[Korigin [7mgit checkout -b feature/ne[27m[7mw[27m[7m-ui-button[27m[A[C[C[C[C[C[C[Cgit checkout -b feature/new-ui-button
+[?2004lerror: unknown switch `b'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --[no-]verbose    be more verbose
+    -q, --[no-]quiet      be more quiet
+    --[no-]repo <repository>
+                          repository
+    --[no-]all            push all branches
+    --[no-]branches       alias of --all
+    --[no-]mirror         mirror all refs
+    -d, --[no-]delete     delete refs
+    --[no-]tags           push tags (can't be used with --all or --branches or --mirror)
+    -n, --[no-]dry-run    dry run
+    --[no-]porcelain      machine-readable output
+    -f, --[no-]force      force updates
+    --[no-]force-with-lease[=<refname>:<expect>]
+        
