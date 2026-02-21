@@ -3,3 +3,4 @@ document.getElementById('apply-btn').addEventListener('click', function () {
   document.getElementById('box').style.backgroundColor = c;
   console.log("Homepage loads correctly now");
 });
+document.getElementById("new-btn").onclick = () => alert("Clicked!");
