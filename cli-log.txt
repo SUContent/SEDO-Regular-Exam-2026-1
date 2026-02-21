@@ -1,0 +1,63 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260221104759
+Username: DESKTOP-NGVD83T\Nikolay Sinorov
+RunAs User: DESKTOP-NGVD83T\Nikolay Sinorov
+Configuration Name: 
+Machine: DESKTOP-NGVD83T (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 9932
+PSVersion: 5.1.19041.6456
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.6456
+BuildVersion: 10.0.19041.6456
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\cli-log.txt
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git checkout feature/new-ui-button
+branch 'feature/new-ui-button' set up to track 'origin/feature/new-ui-button'.
+Switched to a new branch 'feature/new-ui-button'
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git branch
+* feature/new-ui-button
+  main
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git status
+On branch feature/new-ui-button
+Your branch is up to date with 'origin/feature/new-ui-button'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        cli-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git add .
+
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git status
+On branch feature/new-ui-button
+Your branch is up to date with 'origin/feature/new-ui-button'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   cli-log.txt
+        modified:   index.html
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   cli-log.txt
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git commit -m "update index.html file"
+[feature/new-ui-button 38c7c05] update index.html file
+ 2 files changed, 27 insertions(+), 4 deletions(-)
+ create mode 100644 cli-log.txt
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git add .
+
+PS C:\Users\Nikolay Sinorov\Desktop\Exam\SEDO-Regular-Exam-2026-1> git commit -m "script.js file"
+[feature/new-ui-button 1603eaa] script.js file
+ 2 files changed, 53 insertions(+), 3 deletions(-)
