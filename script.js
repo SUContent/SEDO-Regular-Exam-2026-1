@@ -1,4 +1,12 @@
+var colorService = new ColorService();
+colorService.initialize();
+
 document.getElementById('apply-btn').addEventListener('click', function () {
-  var c = document.getElementById('color-input').value;
-  document.getElementById('box').style.backgroundColor = c;
+  var color = colorService.getColor();
+  colorService.applyColor(color);
+});
+
+document.getElementById('reset-btn').addEventListener('click', function () {
+  document.getElementById('box').style.backgroundColor = '#ddd';
+  document.getElementById('color-input').value = '';
 });
