@@ -6,7 +6,7 @@ function setBoxColor(color) {
 // Apply text input color
 document.getElementById('apply-btn').addEventListener('click', function() {
   var color = document.getElementById('color-input').value;
-  setBoxColor(color);
+  document.getElementById('box').style.backgroundColor = color;
 });
 
 // Generate a random hex color
