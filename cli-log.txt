@@ -1,0 +1,506 @@
+Script started on 2026-02-21 11:06:57+02:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="44" LINES="14"]
+[?25l[?7l[14t[2J[H]10;?\]11;?\[18t[14t[16t[0c[?25l[0m[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m     [38;2;59;44;32m▁[38;2;154;114;83m▁[38;2;210;148;94;48;2;7;5;3m▁[38;2;181;129;81;48;2;0;0;0m▂[38;2;166;107;64;48;2;10;7;5m▂[38;2;83;81;78;48;2;41;34;29m╴[38;2;170;117;79;48;2;0;0;0m▂[38;2;192;140;99;48;2;3;2;2m▁[38;2;92;71;53;48;2;0;0;0m▁       [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;3;2;1m┈[38;2;78;49;27;48;2;34;21;12m╵[38;2;2;1;1;48;2;121;80;49m▅[38;2;7;3;1;48;2;164;111;71m▅[38;2;10;5;2;48;2;195;140;96m▅[38;2;14;7;2;48;2;211;146;88m▅[38;2;19;10;3;48;2;182;123;70m▅[38;2;4;4;4;48;2;141;91;47m▄[38;2;103;67;43;48;2;68;49;38m▝[38;2;38;32;32;48;2;113;76;49m▄[38;2;42;39;42;48;2;141;91;54m▄[38;2;60;58;60;48;2;109;74;48m▄[38;2;0;0;0;48;2;108;78;56m▗[48;2;164;111;72m▄[38;2;1;1;0;48;2;185;129;87m▄[38;2;18;14;14;48;2;160;116;82m▄[38;2;28;21;18;48;2;129;98;73m▄[38;2;162;113;79;48;2;55;44;35m┉[38;2;156;112;81;48;2;8;7;6m━[38;2;150;102;68;48;2;5;3;2m╸[48;2;0;0;0m [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m       [38;2;4;2;2;48;2;67;46;44m▉[38;2;112;86;78;48;2;57;46;44m▆[38;2;103;75;66;48;2;39;33;33m▆[38;2;141;114;105;48;2;81;68;64m▆[38;2;117;102;99;48;2;171;161;158m▖[38;2;137;130;129;48;2;5;5;6m▍[48;2;0;0;0m  [38;2;76;76;76;48;2;34;34;34m╺[38;2;92;92;92;48;2;66;66;66m╺[38;2;81;81;80;48;2;65;65;65m┋[38;2;65;65;65;48;2;37;37;37m╸[48;2;0;0;0m  [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m      [38;2;37;35;37;48;2;2;2;2m▁[38;2;23;22;23;48;2;4;3;4m▃[38;2;24;20;19;48;2;122;85;69m▍[38;2;116;73;59;48;2;131;86;75m▅[38;2;149;104;95;48;2;184;164;161m▍[38;2;48;51;56;48;2;159;143;139m▗[38;2;61;72;81;48;2;2;3;3m▂[38;2;21;25;27;48;2;0;0;0m▁ [38;2;15;15;15;48;2;27;27;27m┊[38;2;31;31;31;48;2;78;78;79m▆[38;2;24;24;24;48;2;86;86;86m▅[38;2;19;19;19;48;2;28;27;27m╴[48;2;0;0;0m  [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;17;19;26;48;2;6;6;6m▄[38;2;33;31;33;48;2;22;21;23m▝[38;2;21;19;20;48;2;32;30;32m▇[38;2;14;14;14;48;2;21;20;22m▄[38;2;21;20;23;48;2;47;31;28m▇[38;2;71;46;38;48;2;129;88;71m▌[38;2;141;98;83;48;2;149;115;103m╴[38;2;41;34;35;48;2;151;123;119m▃[38;2;50;60;68;48;2;31;38;46m▘[38;2;50;68;82;48;2;48;57;65m▇[38;2;34;53;72;48;2;5;6;7m▅[48;2;0;0;0m [38;2;0;0;0;48;2;3;3;3m┈[48;2;2;2;2m┈[48;2;0;0;0m   [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;2;2;3;48;2;16;18;26m▖[38;2;14;14;18;48;2;18;18;20m▆[38;2;12;12;13;48;2;15;15;15m▖[38;2;71;52;44;48;2;16;17;20m▗[38;2;28;26;28;48;2;123;86;67m▘[38;2;66;59;56;48;2;141;111;98m▗[38;2;49;32;32;48;2;83;72;69m▇[38;2;19;23;29;48;2;28;38;46m▌[38;2;26;37;45;48;2;33;48;59m▍[38;2;59;81;95;48;2;40;55;68m╷[38;2;149;143;138;48;2;26;49;75m▂[38;2;12;21;29;48;2;1;2;3m╴[48;2;0;0;0m     [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;12;8;6;48;2;121;80;60m▋[38;2;122;80;56;48;2;117;71;46m▘[38;2;117;73;49;48;2;65;38;25m▆[38;2;127;90;67;48;2;97;64;45m▇[38;2;76;71;70;48;2;145;116;100m▗[38;2;83;79;78;48;2;24;24;27m▏[38;2;14;17;21;48;2;9;11;13m╶[38;2;14;16;20;48;2;20;30;39m▌[38;2;25;40;53;48;2;35;57;74m▌[38;2;41;40;43;48;2;97;71;56m▋[38;2;139;115;98;48;2;173;157;146m▖[38;2;0;0;0;48;2;1;1;1m┈[48;2;0;0;0m     [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;3;3;3;48;2;13;10;8m╴[38;2;30;22;19;48;2;104;63;41m▃[38;2;41;32;29;48;2;119;82;65m▂[38;2;31;28;26;48;2;118;93;79m▅[38;2;10;11;14;48;2;15;16;18m┈[38;2;8;12;17;48;2;9;10;14m▂[38;2;9;14;22;48;2;7;9;12m▂[38;2;9;12;15;48;2;16;24;32m▆[38;2;28;31;38;48;2;31;49;65m▄[38;2;128;99;80;48;2;75;49;35m▗[38;2;143;131;124;48;2;51;75;93m▉[38;2;38;57;72;48;2;2;2;3m▏[48;2;0;0;0m     [0m
+[?25h[14A[9999999D[25C[0m[1m[32m[1mdemian[0m@[32m[1mdemian[0m 
+[25C[0m-------------[0m 
+[25C[0m[1mOS[0m[0m:[0m CachyOS x86_64[0m 
+[25C[0m[1mHost[0m[0m:[0m Micro-Star International Co., Ltd. MAG Z790 TOMAHAWK WIFI (MS-7D91)[0m 
+[25C[0m[1mKernel[0m[0m:[0m 6.18.8-3-cachyos[0m 
+[25C[0m[1mUptime[0m[0m:[0m 2 hours, 7 mins[0m 
+[25C[0m[1mPackages[0m[0m:[0m 1958 (pacman), 26 (flatpak)[0m 
+[25C[0m[1mShell[0m[0m:[0m bash 5.3.9[0m 
+[25C[0m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[25C[0m[1mDE[0m[0m:[0m Plasma 6.5.5 (Wayland)[0m 
+[25C[0m[1mWM[0m[0m:[0m kwin_wayland_wr[0m 
+[25C[0m[1mTheme[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mIcons[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mTerminal[0m[0m:[0m vscode[0m 
+[25C[0m[1mCPU[0m[0m:[0m Intel i5-14600K (20) @ 5.300GHz[0m 
+[25C[0m[1mGPU[0m[0m:[0m Intel Battlemage G21 [Arc B580][0m 
+[25C[0m[1mMemory[0m[0m:[0m 8302MiB / 31802MiB[0m 
+
+[?25h[?7h]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  main ? [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:06 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m [7mgit checkout -b feature/new-ui-button[27m
+[C[Cgit checkout -b feature/new-ui-button
+[?2004l
+Switched to a new branch 'feature/new-ui-button'
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ? [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:10 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button + [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:10 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git comimt [K[K[K[Kmit -m ;[K'changed the script'
+[?2004l
+[feature/new-ui-button e99df5d] changed the script
+ 2 files changed, 32 insertions(+), 3 deletions(-)
+ create mode 100644 cli-log.txt
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:11 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git push -u [K[K[Korigin [7mgit checkout -b feature/ne[27m[7mw[27m[7m-ui-button[27m[A[C[C[C[C[C[C[Cgit checkout -b feature/new-ui-button
+[?2004l
+error: unknown switch `b'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --[no-]verbose    be more verbose
+    -q, --[no-]quiet      be more quiet
+    --[no-]repo <repository>
+                          repository
+    --[no-]all            push all branches
+    --[no-]branches       alias of --all
+    --[no-]mirror         mirror all refs
+    -d, --[no-]delete     delete refs
+    --[no-]tags           push tags (can't be used with --all or --branches or --mirror)
+    -n, --[no-]dry-run    dry run
+    --[no-]porcelain      machine-readable output
+    -f, --[no-]force      force updates
+    --[no-]force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --[no-]force-if-includes
+                          require remote updates to be integrated locally
+    --[no-]recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --[no-]thin           use thin pack
+    --[no-]receive-pack <receive-pack>
+                          receive pack program
+    --[no-]exec <receive-pack>
+                          receive pack program
+    -u, --[no-]set-upstream
+                          set upstream for git pull/status
+    --[no-]progress       force progress reporting
+    --[no-]prune          prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --verify              opposite of --no-verify
+    --[no-]follow-tags    push missing but relevant tags
+    --[no-]signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --[no-]atomic         request atomic transaction on remote side
+    -o, --[no-]push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:11 [0m[38;2;29;34;48m [0m
+[1;31m❯[0m 
+[1;31m❯[0m git push origin [7mfeature/new-ui-button[27m
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfeature/new-ui-button
+[?2004l
+Enumerating objects: 6, done.
+Counting objects:  16% (1/6)
+Counting objects:  33% (2/6)
+Counting objects:  50% (3/6)
+Counting objects:  66% (4/6)
+Counting objects:  83% (5/6)
+Counting objects: 100% (6/6)
+Counting objects: 100% (6/6), done.
+Delta compression using up to 20 threads
+Compressing objects:  25% (1/4)
+Compressing objects:  50% (2/4)
+Compressing objects:  75% (3/4)
+Compressing objects: 100% (4/4)
+Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)
+Writing objects:  50% (2/4)
+Writing objects:  75% (3/4)
+Writing objects: 100% (4/4)
+Writing objects: 100% (4/4), 2.01 KiB | 2.01 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'feature/new-ui-button' on GitHub by visiting:[K
+remote:      https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1/pull/new/feature/new-ui-button[K
+remote: 
+To https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1.git
+ * [new branch]      feature/new-ui-button -> feature/new-ui-button
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:12 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button + [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:12 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git commit -m ;[K'ade[Kded new elements to the h 
+tml opag[K[K[K[Kpage'
+[?2004l
+[feature/new-ui-button 4a4f111] added new elements to the html page
+ 2 files changed, 51 insertions(+), 5 deletions(-)
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:12 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git push
+[?2004l
+fatal: The current branch feature/new-ui-button has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin feature/new-ui-button
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:12 [0m[38;2;29;34;48m [0m
+[1;31m❯[0m 
+[1;31m❯[0m [7mgit push origin feature/new-ui-button[27m
+[C[Cgit push origin feature/new-ui-button
+[?2004l
+Enumerating objects: 7, done.
+Counting objects:  14% (1/7)
+Counting objects:  28% (2/7)
+Counting objects:  42% (3/7)
+Counting objects:  57% (4/7)
+Counting objects:  71% (5/7)
+Counting objects:  85% (6/7)
+Counting objects: 100% (7/7)
+Counting objects: 100% (7/7), done.
+Delta compression using up to 20 threads
+Compressing objects:  25% (1/4)
+Compressing objects:  50% (2/4)
+Compressing objects:  75% (3/4)
+Compressing objects: 100% (4/4)
+Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)
+Writing objects:  50% (2/4)
+Writing objects:  75% (3/4)
+Writing objects: 100% (4/4)
+Writing objects: 100% (4/4), 2.99 KiB | 2.99 MiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1.git
+   e99df5d..4a4f111  feature/new-ui-button -> feature/new-ui-button
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button ! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:12 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button + [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:12 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m gi t[K[Kt commit -m 'added ew[K[Knew styles'
+[?2004l
+[feature/new-ui-button b46dc27] added new styles
+ 2 files changed, 51 insertions(+), 3 deletions(-)
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  feature/new-ui-button [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:13 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m# Commands from 21.02.2026 (сб) 11:27:03 EET
+git checkout -b bugfix/home-load
+git add .
+git commit -m 'added new styles for the html elements'
+git push origin bugfix/home-load
+Script started on 2026-02-21 11:27:40+02:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="44" LINES="14"]
+[?25l[?7l[14t[2J[H]10;?\]11;?\[18t[14t[16t[0c[?25l[0m[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m     [38;2;59;44;32m▁[38;2;154;114;83m▁[38;2;210;148;94;48;2;7;5;3m▁[38;2;181;129;81;48;2;0;0;0m▂[38;2;166;107;64;48;2;10;7;5m▂[38;2;83;81;78;48;2;41;34;29m╴[38;2;170;117;79;48;2;0;0;0m▂[38;2;192;140;99;48;2;3;2;2m▁[38;2;92;71;53;48;2;0;0;0m▁       [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;3;2;1m┈[38;2;78;49;27;48;2;34;21;12m╵[38;2;2;1;1;48;2;121;80;49m▅[38;2;7;3;1;48;2;164;111;71m▅[38;2;10;5;2;48;2;195;140;96m▅[38;2;14;7;2;48;2;211;146;88m▅[38;2;19;10;3;48;2;182;123;70m▅[38;2;4;4;4;48;2;141;91;47m▄[38;2;103;67;43;48;2;68;49;38m▝[38;2;38;32;32;48;2;113;76;49m▄[38;2;42;39;42;48;2;141;91;54m▄[38;2;60;58;60;48;2;109;74;48m▄[38;2;0;0;0;48;2;108;78;56m▗[48;2;164;111;72m▄[38;2;1;1;0;48;2;185;129;87m▄[38;2;18;14;14;48;2;160;116;82m▄[38;2;28;21;18;48;2;129;98;73m▄[38;2;162;113;79;48;2;55;44;35m┉[38;2;156;112;81;48;2;8;7;6m━[38;2;150;102;68;48;2;5;3;2m╸[48;2;0;0;0m [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m       [38;2;4;2;2;48;2;67;46;44m▉[38;2;112;86;78;48;2;57;46;44m▆[38;2;103;75;66;48;2;39;33;33m▆[38;2;141;114;105;48;2;81;68;64m▆[38;2;117;102;99;48;2;171;161;158m▖[38;2;137;130;129;48;2;5;5;6m▍[48;2;0;0;0m  [38;2;76;76;76;48;2;34;34;34m╺[38;2;92;92;92;48;2;66;66;66m╺[38;2;81;81;80;48;2;65;65;65m┋[38;2;65;65;65;48;2;37;37;37m╸[48;2;0;0;0m  [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m      [38;2;37;35;37;48;2;2;2;2m▁[38;2;23;22;23;48;2;4;3;4m▃[38;2;24;20;19;48;2;122;85;69m▍[38;2;116;73;59;48;2;131;86;75m▅[38;2;149;104;95;48;2;184;164;161m▍[38;2;48;51;56;48;2;159;143;139m▗[38;2;61;72;81;48;2;2;3;3m▂[38;2;21;25;27;48;2;0;0;0m▁ [38;2;15;15;15;48;2;27;27;27m┊[38;2;31;31;31;48;2;78;78;79m▆[38;2;24;24;24;48;2;86;86;86m▅[38;2;19;19;19;48;2;28;27;27m╴[48;2;0;0;0m  [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;17;19;26;48;2;6;6;6m▄[38;2;33;31;33;48;2;22;21;23m▝[38;2;21;19;20;48;2;32;30;32m▇[38;2;14;14;14;48;2;21;20;22m▄[38;2;21;20;23;48;2;47;31;28m▇[38;2;71;46;38;48;2;129;88;71m▌[38;2;141;98;83;48;2;149;115;103m╴[38;2;41;34;35;48;2;151;123;119m▃[38;2;50;60;68;48;2;31;38;46m▘[38;2;50;68;82;48;2;48;57;65m▇[38;2;34;53;72;48;2;5;6;7m▅[48;2;0;0;0m [38;2;0;0;0;48;2;3;3;3m┈[48;2;2;2;2m┈[48;2;0;0;0m   [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;2;2;3;48;2;16;18;26m▖[38;2;14;14;18;48;2;18;18;20m▆[38;2;12;12;13;48;2;15;15;15m▖[38;2;71;52;44;48;2;16;17;20m▗[38;2;28;26;28;48;2;123;86;67m▘[38;2;66;59;56;48;2;141;111;98m▗[38;2;49;32;32;48;2;83;72;69m▇[38;2;19;23;29;48;2;28;38;46m▌[38;2;26;37;45;48;2;33;48;59m▍[38;2;59;81;95;48;2;40;55;68m╷[38;2;149;143;138;48;2;26;49;75m▂[38;2;12;21;29;48;2;1;2;3m╴[48;2;0;0;0m     [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;12;8;6;48;2;121;80;60m▋[38;2;122;80;56;48;2;117;71;46m▘[38;2;117;73;49;48;2;65;38;25m▆[38;2;127;90;67;48;2;97;64;45m▇[38;2;76;71;70;48;2;145;116;100m▗[38;2;83;79;78;48;2;24;24;27m▏[38;2;14;17;21;48;2;9;11;13m╶[38;2;14;16;20;48;2;20;30;39m▌[38;2;25;40;53;48;2;35;57;74m▌[38;2;41;40;43;48;2;97;71;56m▋[38;2;139;115;98;48;2;173;157;146m▖[38;2;0;0;0;48;2;1;1;1m┈[48;2;0;0;0m     [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;3;3;3;48;2;13;10;8m╴[38;2;30;22;19;48;2;104;63;41m▃[38;2;41;32;29;48;2;119;82;65m▂[38;2;31;28;26;48;2;118;93;79m▅[38;2;10;11;14;48;2;15;16;18m┈[38;2;8;12;17;48;2;9;10;14m▂[38;2;9;14;22;48;2;7;9;12m▂[38;2;9;12;15;48;2;16;24;32m▆[38;2;28;31;38;48;2;31;49;65m▄[38;2;128;99;80;48;2;75;49;35m▗[38;2;143;131;124;48;2;51;75;93m▉[38;2;38;57;72;48;2;2;2;3m▏[48;2;0;0;0m     [0m
+[?25h[14A[9999999D[25C[0m[1m[32m[1mdemian[0m@[32m[1mdemian[0m 
+[25C[0m-------------[0m 
+[25C[0m[1mOS[0m[0m:[0m CachyOS x86_64[0m 
+[25C[0m[1mHost[0m[0m:[0m Micro-Star International Co., Ltd. MAG Z790 TOMAHAWK WIFI (MS-7D91)[0m 
+[25C[0m[1mKernel[0m[0m:[0m 6.18.8-3-cachyos[0m 
+[25C[0m[1mUptime[0m[0m:[0m 2 hours, 28 mins[0m 
+[25C[0m[1mPackages[0m[0m:[0m 1958 (pacman), 26 (flatpak)[0m 
+[25C[0m[1mShell[0m[0m:[0m bash 5.3.9[0m 
+[25C[0m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[25C[0m[1mDE[0m[0m:[0m Plasma 6.5.5 (Wayland)[0m 
+[25C[0m[1mWM[0m[0m:[0m kwin_wayland_wr[0m 
+[25C[0m[1mTheme[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mIcons[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mTerminal[0m[0m:[0m vscode[0m 
+[25C[0m[1mCPU[0m[0m:[0m Intel i5-14600K (20) @ 5.300GHz[0m 
+[25C[0m[1mGPU[0m[0m:[0m Intel Battlemage G21 [Arc B580][0m 
+[25C[0m[1mMemory[0m[0m:[0m 8313MiB / 31802MiB[0m 
+
+[?25h[?7h]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:27 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $+ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:28 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git comit [K[K[Kmit -m 'applied changes'
+[?2004l
+[bugfix/home-load 49ec301] applied changes
+ 1 file changed, 17 insertions(+), 1 deletion(-)
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:28 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m gi[Kut push org[Kigin [7mbugfix/home-load[27mbugfix/home-load
+[?2004l
+bash: gut: command not found
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:28 [0m[38;2;29;34;48m [0m
+[1;31m❯[0m 
+[1;31m❯[0m git puhsd[K[K[Kdh origin [7mbugfix/home-load[27mbugfix/home-load
+[?2004l
+git: 'pudh' is not a git command. See 'git --help'.
+
+The most similar command is
+	push
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:28 [0m[38;2;29;34;48m [0m
+[1;31m❯[0m 
+[1;31m❯[0m git push origin m[K[7mbugfix/home-load[27mbugfix/home-load
+[?2004l
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)
+Counting objects:  40% (2/5)
+Counting objects:  60% (3/5)
+Counting objects:  80% (4/5)
+Counting objects: 100% (5/5)
+Counting objects: 100% (5/5), done.
+Delta compression using up to 20 threads
+Compressing objects:  33% (1/3)
+Compressing objects:  66% (2/3)
+Compressing objects: 100% (3/3)
+Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)
+Writing objects:  66% (2/3)
+Writing objects: 100% (3/3)
+Writing objects: 100% (3/3), 535 bytes | 535.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1.git
+   3bebff7..49ec301  bugfix/home-load -> bugfix/home-load
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:28 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $+ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:29 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git commit -m 'added html to the -ag[K[K[Kpage'
+[?2004l
+[bugfix/home-load d7016c4] added html to the page
+ 2 files changed, 41 insertions(+), 3 deletions(-)
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:29 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git push origin [7mbugfix/home-load[27mbugfix/home-load
+[?2004l
+Enumerating objects: 7, done.
+Counting objects:  14% (1/7)
+Counting objects:  28% (2/7)
+Counting objects:  42% (3/7)
+Counting objects:  57% (4/7)
+Counting objects:  71% (5/7)
+Counting objects:  85% (6/7)
+Counting objects: 100% (7/7)
+Counting objects: 100% (7/7), done.
+Delta compression using up to 20 threads
+Compressing objects:  25% (1/4)
+Compressing objects:  50% (2/4)
+Compressing objects:  75% (3/4)
+Compressing objects: 100% (4/4)
+Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)
+Writing objects:  50% (2/4)
+Writing objects:  75% (3/4)
+Writing objects: 100% (4/4)
+Writing objects: 100% (4/4), 851 bytes | 851.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/2)[K
+remote: Resolving deltas:  50% (1/2)[K
+remote: Resolving deltas: 100% (2/2)[K
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1.git
+   49ec301..d7016c4  bugfix/home-load -> bugfix/home-load
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:29 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $+ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:30 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git commit -m ;[K'added new scipt featureas[K[Ks'
+[?2004l
+[bugfix/home-load 93b3f49] added new scipt features
+ 1 file changed, 2 insertions(+), 19 deletions(-)
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:30 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git push origin [7mbugfix/home-load[27mbugfix/home-load
+[?2004l
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)
+Counting objects:  40% (2/5)
+Counting objects:  60% (3/5)
+Counting objects:  80% (4/5)
+Counting objects: 100% (5/5)
+Counting objects: 100% (5/5), done.
+Delta compression using up to 20 threads
+Compressing objects:  33% (1/3)
+Compressing objects:  66% (2/3)
+Compressing objects: 100% (3/3)
+Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)
+Writing objects:  66% (2/3)
+Writing objects: 100% (3/3)
+Writing objects: 100% (3/3), 387 bytes | 387.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1.git
+   d7016c4..93b3f49  bugfix/home-load -> bugfix/home-load
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:31 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git log --oneline
+[?2004l
+[?1h=
+[33m93b3f49[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbugfix/home-load[m[33m, [m[1;31morigin/bu[m [33m[m[33m[m[1;36m[m[33m[m[1;32m[m[33m[m[1;31mgfix/home-load[m[33m)[m added new scipt features[m
+[33md7016c4[m added html to the page[m
+[33m49ec301[m applied changes[m
+[33m3bebff7[m added new styles for the html elemen[m [33m[mts[m
+[33ma82573b[m[33m ([m[1;32mfeature/new-ui-button[m[33m)[m squashed the[m [33m[m[33m[m[1;32m[m[33m[m commits successully[m
+[33mab9f6c3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Del[m [33m[m[33m[m[1;31m[m[33m[m[1;31m[m[33m[m[1;32m[m[33m[mete LICENSE[m
+[33m7ddd1ac[m Add files[m
+[33m8d45919[m Initial commit[m
+
+[K[?1l>]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:31 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git rebase -i HEAD~4
+[?2004l
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:31 [0m[38;2;29;34;48m [0m
+[1;31m❯[0m 
+[1;31m❯[0m git stash[K[K[K[Katt[K[K[Ktatus
+[?2004l
+On branch bugfix/home-load
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   cli-log.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:32 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git commit -a
+[?2004l
+hint: Waiting for your editor to close the file... [?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;14r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[14;1H<MMIT_EDITMSG"
+<TMSG" 8L, 222B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[34m# Please enter the commit message for your cc[3;1Hhanges. Lines starting[m[3;23H[K[4;1H[34m# with '#' will be ignored, and an empty mess[5;1Hsage aborts the commit.
+#
+# On branch [m[35mbugfix/home-load[m
+[34m# [m[35mChanges to be committed:[m
+[34m#       [m[32mmodified[m[34m:   [m[31mcli-log.txt[m
+[34m#[m
+[94m~                                           [12;1H~                                           [13;1H~                                           [m[14;27H1,0-1[9CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[27m[23m[29m[m[H[2J[?25l[2;1H[96m# Please enter the commit message for your cc[3;1Hhanges. Lines starting
+# with '#' will be ignored, and an empty mess[5;1Hsage aborts the commit.
+#
+# On branch [m[38;5;224mbugfix/home-load[m
+[96m# [m[38;5;81mChanges to be committed:[m
+[96m#       [m[38;5;121mmodified[m[96m:   [m[95mcli-log.txt[m
+[96m#[m
+[94m~                                           [12;1H~                                           [13;1H~                                           [m[14;27H1,0-1[9CAll
+<TMSG" 8L, 222B[1;1H[?25h[?25l[1;13r[1;1H[5M[1;14r[9;1H[94m~                                           [10;1H~                                           [11;1H~                                           [12;1H~                                           [13;1H~                                           [m[14;1H[K[14;27H8,1[11CBot[5;1H[?25h[?25l[1;13r[1;1H[5L[1;14r[2;1H[96m# Please enter the commit message for your cc[3;1Hhanges. Lines starting
+# with '#' will be ignored, and an empty mess[5;1Hsage aborts the commit.[m[14;27H[K[14;27H8,1[11CAll[10;1H[?25h[?25l[?25h[?25l[14;17H:[10;1H[14;17H[K[14;1H:[?25hwq
+[?25l[?1006;1000l[?1002l[?2004l[>4;m<MMIT_EDITMSG"
+<, 222B written
+[23;2t[23;1t
+
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m
+[KAborting commit due to empty commit message.
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  bugfix/home-load $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:32 [0m[38;2;29;34;48m [0m
+[1;31m❯[0m 
+[1;31m❯[0m git commit -m[Ka
+[?200Script started on 2026-02-21 11:40:57+02:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="44" LINES="14"]
+[?25l[?7l[14t[2J[H]10;?\]11;?\[18t[14t[16t[0c[?25l[0m[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m     [38;2;59;44;32m▁[38;2;154;114;83m▁[38;2;210;148;94;48;2;7;5;3m▁[38;2;181;129;81;48;2;0;0;0m▂[38;2;166;107;64;48;2;10;7;5m▂[38;2;83;81;78;48;2;41;34;29m╴[38;2;170;117;79;48;2;0;0;0m▂[38;2;192;140;99;48;2;3;2;2m▁[38;2;92;71;53;48;2;0;0;0m▁       [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;3;2;1m┈[38;2;78;49;27;48;2;34;21;12m╵[38;2;2;1;1;48;2;121;80;49m▅[38;2;7;3;1;48;2;164;111;71m▅[38;2;10;5;2;48;2;195;140;96m▅[38;2;14;7;2;48;2;211;146;88m▅[38;2;19;10;3;48;2;182;123;70m▅[38;2;4;4;4;48;2;141;91;47m▄[38;2;103;67;43;48;2;68;49;38m▝[38;2;38;32;32;48;2;113;76;49m▄[38;2;42;39;42;48;2;141;91;54m▄[38;2;60;58;60;48;2;109;74;48m▄[38;2;0;0;0;48;2;108;78;56m▗[48;2;164;111;72m▄[38;2;1;1;0;48;2;185;129;87m▄[38;2;18;14;14;48;2;160;116;82m▄[38;2;28;21;18;48;2;129;98;73m▄[38;2;162;113;79;48;2;55;44;35m┉[38;2;156;112;81;48;2;8;7;6m━[38;2;150;102;68;48;2;5;3;2m╸[48;2;0;0;0m [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m       [38;2;4;2;2;48;2;67;46;44m▉[38;2;112;86;78;48;2;57;46;44m▆[38;2;103;75;66;48;2;39;33;33m▆[38;2;141;114;105;48;2;81;68;64m▆[38;2;117;102;99;48;2;171;161;158m▖[38;2;137;130;129;48;2;5;5;6m▍[48;2;0;0;0m  [38;2;76;76;76;48;2;34;34;34m╺[38;2;92;92;92;48;2;66;66;66m╺[38;2;81;81;80;48;2;65;65;65m┋[38;2;65;65;65;48;2;37;37;37m╸[48;2;0;0;0m  [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m      [38;2;37;35;37;48;2;2;2;2m▁[38;2;23;22;23;48;2;4;3;4m▃[38;2;24;20;19;48;2;122;85;69m▍[38;2;116;73;59;48;2;131;86;75m▅[38;2;149;104;95;48;2;184;164;161m▍[38;2;48;51;56;48;2;159;143;139m▗[38;2;61;72;81;48;2;2;3;3m▂[38;2;21;25;27;48;2;0;0;0m▁ [38;2;15;15;15;48;2;27;27;27m┊[38;2;31;31;31;48;2;78;78;79m▆[38;2;24;24;24;48;2;86;86;86m▅[38;2;19;19;19;48;2;28;27;27m╴[48;2;0;0;0m  [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;17;19;26;48;2;6;6;6m▄[38;2;33;31;33;48;2;22;21;23m▝[38;2;21;19;20;48;2;32;30;32m▇[38;2;14;14;14;48;2;21;20;22m▄[38;2;21;20;23;48;2;47;31;28m▇[38;2;71;46;38;48;2;129;88;71m▌[38;2;141;98;83;48;2;149;115;103m╴[38;2;41;34;35;48;2;151;123;119m▃[38;2;50;60;68;48;2;31;38;46m▘[38;2;50;68;82;48;2;48;57;65m▇[38;2;34;53;72;48;2;5;6;7m▅[48;2;0;0;0m [38;2;0;0;0;48;2;3;3;3m┈[48;2;2;2;2m┈[48;2;0;0;0m   [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;2;2;3;48;2;16;18;26m▖[38;2;14;14;18;48;2;18;18;20m▆[38;2;12;12;13;48;2;15;15;15m▖[38;2;71;52;44;48;2;16;17;20m▗[38;2;28;26;28;48;2;123;86;67m▘[38;2;66;59;56;48;2;141;111;98m▗[38;2;49;32;32;48;2;83;72;69m▇[38;2;19;23;29;48;2;28;38;46m▌[38;2;26;37;45;48;2;33;48;59m▍[38;2;59;81;95;48;2;40;55;68m╷[38;2;149;143;138;48;2;26;49;75m▂[38;2;12;21;29;48;2;1;2;3m╴[48;2;0;0;0m     [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;12;8;6;48;2;121;80;60m▋[38;2;122;80;56;48;2;117;71;46m▘[38;2;117;73;49;48;2;65;38;25m▆[38;2;127;90;67;48;2;97;64;45m▇[38;2;76;71;70;48;2;145;116;100m▗[38;2;83;79;78;48;2;24;24;27m▏[38;2;14;17;21;48;2;9;11;13m╶[38;2;14;16;20;48;2;20;30;39m▌[38;2;25;40;53;48;2;35;57;74m▌[38;2;41;40;43;48;2;97;71;56m▋[38;2;139;115;98;48;2;173;157;146m▖[38;2;0;0;0;48;2;1;1;1m┈[48;2;0;0;0m     [0m
+[7m[38;2;0;0;0m [0m[38;2;0;0;0;48;2;0;0;0m    [38;2;3;3;3;48;2;13;10;8m╴[38;2;30;22;19;48;2;104;63;41m▃[38;2;41;32;29;48;2;119;82;65m▂[38;2;31;28;26;48;2;118;93;79m▅[38;2;10;11;14;48;2;15;16;18m┈[38;2;8;12;17;48;2;9;10;14m▂[38;2;9;14;22;48;2;7;9;12m▂[38;2;9;12;15;48;2;16;24;32m▆[38;2;28;31;38;48;2;31;49;65m▄[38;2;128;99;80;48;2;75;49;35m▗[38;2;143;131;124;48;2;51;75;93m▉[38;2;38;57;72;48;2;2;2;3m▏[48;2;0;0;0m     [0m
+[?25h[14A[9999999D[25C[0m[1m[32m[1mdemian[0m@[32m[1mdemian[0m 
+[25C[0m-------------[0m 
+[25C[0m[1mOS[0m[0m:[0m CachyOS x86_64[0m 
+[25C[0m[1mHost[0m[0m:[0m Micro-Star International Co., Ltd. MAG Z790 TOMAHAWK WIFI (MS-7D91)[0m 
+[25C[0m[1mKernel[0m[0m:[0m 6.18.8-3-cachyos[0m 
+[25C[0m[1mUptime[0m[0m:[0m 2 hours, 41 mins[0m 
+[25C[0m[1mPackages[0m[0m:[0m 1958 (pacman), 26 (flatpak)[0m 
+[25C[0m[1mShell[0m[0m:[0m bash 5.3.9[0m 
+[25C[0m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[25C[0m[1mDE[0m[0m:[0m Plasma 6.5.5 (Wayland)[0m 
+[25C[0m[1mWM[0m[0m:[0m kwin_wayland_wr[0m 
+[25C[0m[1mTheme[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mIcons[0m[0m:[0m Adwaita [GTK3][0m 
+[25C[0m[1mTerminal[0m[0m:[0m vscode[0m 
+[25C[0m[1mCPU[0m[0m:[0m Intel i5-14600K (20) @ 5.300GHz[0m 
+[25C[0m[1mGPU[0m[0m:[0m Intel Battlemage G21 [Arc B580][0m 
+[25C[0m[1mMemory[0m[0m:[0m 8517MiB / 31802MiB[0m 
+
+[?25h[?7h]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  chore/user-service-refactor $! [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:40 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git add .
+[?2004l
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  chore/user-service-refactor $+ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:41 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git commit -m ;[K'uda[K[Kpdated the scrit[Kpt'
+[?2004l
+[chore/user-service-refactor fdc7b17] updated the script
+ 2 files changed, 25 insertions(+), 4 deletions(-)
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  chore/user-service-refactor $ [48;2;33;39;54;38;2;57;66;96m[38;2;118;159;240m  v25.4.0 [48;2;29;34;48;38;2;33;39;54m[38;2;160;169;203m  11:41 [0m[38;2;29;34;48m [0m
+[1;32m❯[0m 
+[1;32m❯[0m git push origin [7mchore/user-service-refacto[27m[7mr[27m[A
+[1;32m❯[0m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchore/user-service-refactor
+[?2004l
+Enumerating objects: 7, done.
+Counting objects:  14% (1/7)
+Counting objects:  28% (2/7)
+Counting objects:  42% (3/7)
+Counting objects:  57% (4/7)
+Counting objects:  71% (5/7)
+Counting objects:  85% (6/7)
+Counting objects: 100% (7/7)
+Counting objects: 100% (7/7), done.
+Delta compression using up to 20 threads
+Compressing objects:  25% (1/4)
+Compressing objects:  50% (2/4)
+Compressing objects:  75% (3/4)
+Compressing objects: 100% (4/4)
+Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)
+Writing objects:  50% (2/4)
+Writing objects:  75% (3/4)
+Writing objects: 100% (4/4)
+Writing objects: 100% (4/4), 661 bytes | 661.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/coffee4urhead/SEDO-Regular-Exam-2026-1.git
+   17f0157..fdc7b17  chore/user-service-refactor -> chore/user-service-refactor
+]0;demian@demian:~/Documents/DevOps/Exam/SEDO-exam-1/SEDO-Regular-Exam-2026-1[?2004h
+[38;2;163;174;210m░▒▓[48;2;163;174;210;38;2;9;12;12m  [48;2;118;159;240;38;2;163;174;210m[38;2;227;229;229m …/SEDO-Regular-Exam-2026-1 [48;2;57;66;96;38;2;118;159;240m  chore/user-service-refa
